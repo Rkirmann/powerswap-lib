@@ -1,20 +1,20 @@
 {
   "name": "@lootswap/lib",
-  "version": "1.0.5",
+  "version": "2.0.0",
   "description": "📖 Solidity libraries that are shared across Lootswap contracts",
   "files": [
     "contracts",
     "!contracts/test"
   ],
   "repository": {
-    "url": "https://github.com/Lootswap/lootswap-lib",
+    "url": "https://github.com/LootSwap/lootswap-lib",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/Lootswap/lootswap-lib/issues"
+    "url": "https://github.com/LootSwap/lootswap-lib/issues"
   },
   "engines": {
-    "node": "=12"
+    "node": "=12.0.0"
   },
   "devDependencies": {
     "@types/chai": "^4.2.11",
