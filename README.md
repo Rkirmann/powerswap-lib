@@ -12,11 +12,11 @@ Run `yarn test` to execute the test suite.
 
 ## Usage
 
-Install this in another project via `yarn add @lootswap/lib`
+Install this in another project via `yarn add @powerswap/lib`
 
 Then import the contracts via:
 
 ```solidity
-import '@lootswap/lib/contracts/libraries/Babylonian.sol';
+import '@powerswap/lib/contracts/libraries/Babylonian.sol';
 
 ```
